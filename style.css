@@ -1,6 +1,6 @@
 html {
   font-size: 10px;
-  background: url('./background.jpg') bottom center;
+  background: url('./background1.jpg') bottom center;
   background-size: cover;
 }
 
@@ -48,4 +48,11 @@ kbd {
   text-transform: uppercase;
   letter-spacing: .1rem;
   color: #ffc600;
+}
+
+h1 {
+    color: antiquewhite;
+    border-color: orange;
+    font-size: 10rem;
+    text-align: center;
 }
